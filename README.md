@@ -1,3 +1,11 @@
+# Docs [surrealdb](https://surrealdb.com/docs/)
+
+
+```bash
+surreal start --log trace --user admin --pass admin12312412 --bind 0.0.0.0:3000 memory
+```
+
+
 ```js
 import { Surreal } from 'surrealdb.js';
 
